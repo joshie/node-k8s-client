@@ -1,0 +1,23 @@
+{
+  "name" : "k8s-client",
+  "version" : "0.0.1",
+  "description" : "Node.js Kubernetes Client for use with API",
+  "main" : "./index.js",
+  "repository" : {
+    "type" : "git",
+    "url" : "http://github.com/joshie/node-k8s-client.git"
+  },
+  "keywords": [
+    "kubernetes",
+    "k8s"
+  ],
+  "author" : {
+    "name" : "Josh Lohrman",
+    "email" : "joshlohrman@gmail.com",
+    "url" : "https://github.com/joshie/node-k8s-client"
+  },
+  "license" : "MIT",
+  "engine" : {
+    "node" : ">=0.2.0"
+  }
+}
